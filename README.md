@@ -1,5 +1,5 @@
 # CS-340-10523-M01-Client-Server-Development
-CS 340 – Module Eight Journal Reflection
+
 How do you write programs that are maintainable, readable, and adaptable?
 
 To write maintainable and readable programs, I focus on modular design, clear structure, and separation of concerns. In Project One, I developed a reusable CRUD Python module that handled all database operations independently from the dashboard interface. This approach improved maintainability because database logic was isolated from user interface logic, making debugging and updates easier. If changes were required in the database structure, they could be implemented within the CRUD module without rewriting the dashboard code.
